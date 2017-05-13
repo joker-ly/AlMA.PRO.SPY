@@ -2,11 +2,11 @@
 
 The **OpenSource** BotNet - By **A.R.M-Y H4CK3RZ**
 
-Type of the bot:
+`Types of the bot`:
 1. VB.NET
 1. C++
-    1. C++ EXE (Windows)
-    1. C++ ELF (Linux)
+    1. EXE (Windows)
+    1. ELF (Linux)
 1. Java (Android)
 1. Python (Cross-Platform)
 1. JS (Cross-Platform)
