@@ -2,7 +2,7 @@
 
 The **OpenSource** BotNet - By **A.R.M-Y H4CK3RZ**
 
-`Types of the bot`:
+`Versions of the bot`:
 1. VB.NET
 1. C++
     1. EXE (Windows)
